@@ -8,3 +8,8 @@ N100
 - [Self Hosting Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
 - [/r/HomeServer](https://www.reddit.com/r/HomeServer/) - /r/HomeServer: for all your home, small, and medium business server, software, and related discussions!
 - [/r/homelab](https://www.reddit.com/r/homelab/) - Welcome to your friendly /r/homelab, where techies and sysadmin from everywhere are welcome to share their labs, projects, builds, etc.
+
+### VPS
+
+- [blockchainAnalysis](https://github.com/dancingsushii/blockchainAnalysis/blob/9f69173cac80e547fa1259f9a681a3d182580b43/data/processed/blockchains/polkadot/hosting_distribution.csv#L2) - A repository for analyzing and visualizing data collected from multiple blockchain crawlers.
+- [blackbox](https://github.com/Munzy/blackbox/blob/f0e1d8b3e3160eae1073cdda06d46f2338ba1e7a/blocks/hosting/hosting.csv#L481) - A replacement for Black Box Proxy Block that provided a way to determine if an IP address was a likely proxy.
