@@ -12,6 +12,7 @@ N100
 - [Self Hosting Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
 - [/r/HomeServer](https://www.reddit.com/r/HomeServer/) - /r/HomeServer: for all your home, small, and medium business server, software, and related discussions!
 - [/r/homelab](https://www.reddit.com/r/homelab/) - Welcome to your friendly /r/homelab, where techies and sysadmin from everywhere are welcome to share their labs, projects, builds, etc.
+www.notebookcheck.net
 
 ### Finding VPS
 
