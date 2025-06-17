@@ -4,6 +4,8 @@ J1900 J4125
 N100
 - [BSD - Hardware Trends](https://github.com/bsdhw/Trends) - A project to identify most popular hardware characteristics and track their change over time based on data collected by BSD users at https://BSD-Hardware.info.
 - [CPU Benchmarks](https://www.cpubenchmark.net/CPU_mega_page.html) - PassMark - CPU Benchmarks - CPU Mega Page - Detailed List of Benchmarked CPUs
+- https://www.passmark.com/
+- browser.geekbench.com
 - https://dn.odroid.com/
 ### ...
 - [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
